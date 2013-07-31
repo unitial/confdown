@@ -1,0 +1,82 @@
+On the foundations of trust in networks of humans and computers.
+Fides: selectively hardening software application components against kernel-level or process-level malware.
+A software-hardware architecture for self-protecting data.
+Vigilare: toward snoop-based kernel integrity monitor.
+The most dangerous code in the world: validating SSL certificates in non-browser software.
+Why eve and mallory love android: an analysis of android SSL (in)security.
+A cross-protocol attack on the TLS protocol.
+Enhancing Tor's performance using real-time traffic classification.
+Routing around decoys.
+SkypeMorph: protocol obfuscation for Tor bridges.
+StegoTorus: a camouflage proxy for the Tor anonymity system.
+CensorSpoofer: asymmetric communication using IP spoofing for censorship-resistant web browsing.
+Adaptive defenses for commodity software through virtual application partitioning.
+Leveraging "choice" to automate authorization hook placement.
+Binary stirring: self-randomizing instruction addresses of legacy x86 binary code.
+Aligot: cryptographic function identification in obfuscated binary programs.
+An historical examination of open source releases and their vulnerabilities.
+Mobile data charging: new attacks and countermeasures.
+New privacy issues in mobile telephony: fix and verification.
+PScout: analyzing the Android permission specification.
+CHEX: statically vetting Android apps for component hijacking vulnerabilities.
+Using probabilistic generative models for ranking risks of Android apps.
+Self-service cloud computing.
+Hourglass schemes: how to prove that cloud files are encrypted.
+Resource-freeing attacks: improve your cloud performance (at your neighbor's expense).
+Single round access privacy on outsourced storage.
+Cross-VM side channels and their use to extract private keys.
+Kargus: a highly-scalable software-based intrusion detection system.
+Populated IP addresses: classification and applications.
+Blacksheep: detecting compromised hosts in homogeneous crowds.
+Innocent by association: early recognition of legitimate users.
+Operating system framed in case of mistaken identity: measuring the success of web-based spoofing attacks on OS password-entry dialogs.
+The devil is in the (implementation) details: an empirical analysis of OAuth SSO systems.
+OTO: online trust oracle for user-centric trust establishment.
+Strengthening user authentication through opportunistic cryptographic identity assertions.
+Minimizing private data disclosures in the smart grid.
+How secure are power network signature based time stamps?
+SABOT: specification-based payload generation for programmable logic controllers.
+GPS software attacks.
+Neighborhood watch: security and privacy analysis of automatic meter reading systems.
+Machine-generated algorithms, proofs and software for the batch verification of digital signature schemes.
+Full proof cryptography: verifiable compilation of efficient zero-knowledge protocols.
+Publicly verifiable delegation of large polynomials and matrix computations, with applications.
+Secure two-party computation in sublinear (amortized) time.
+Practical yet universally composable two-server password-authenticated secret sharing.
+Provable security of S-BGP and other path vector protocols: model, analysis and extensions.
+Towards a bayesian network game framework for evaluating DDoS attacks and defense.
+DCast: sustaining collaboration in overlay multicast despite rational collusion.
+PeerPress: utilizing enemies' P2P strength against them.
+Collaborative TCP sequence number inference attack: how to crack sequence number under a second.
+Touching from a distance: website fingerprinting attacks and defenses.
+Protecting location privacy: optimal strategy against localization attacks.
+Deanonymizing mobility traces: using social network as a side-channel.
+Differentially private sequential data publication via variable-length n-grams.
+On significance of the least significant bits for differential privacy.
+Privacy-aware personalization for mobile advertising.
+Knowing your enemy: understanding and detecting malicious web advertising.
+Non-tracking web analytics.
+Computational soundness without protocol restrictions.
+Computational verification of C protocol implementations by symbolic execution.
+Verified security of redundancy-free encryption from Rabin and RSA.
+You are what you include: large-scale evaluation of remote javascript inclusions.
+FlowFox: a web browser with flexible and precise information flow control.
+Scriptless attacks: stealing the pie without touching the sill.
+Secure two-party computations in ANSI C.
+Foundations of garbled circuits.
+Salus: a system for server-aided secure function evaluation.
+Vanity, cracks and malware: insights into the anti-copy protection ecosystem.
+Manufacturing compromise: the emergence of exploit-as-a-service.
+Before we knew it: an empirical study of zero-day attacks in the real world.
+Priceless: the role of payments in abuse-advertised goods.
+On the parameterized complexity of the workflow satisfiability problem.
+Intransitive noninterference in nondeterministic systems.
+Precise enforcement of progress-sensitive security.
+TreeDroid: a tree automaton based approach to enforcing data processing policies.
+Double-spending fast payments in bitcoin.
+Revoke and let live: a secure key revocation api for cryptographic devices.
+PERM: practical reputation-based blacklisting without TTPS.
+Measuring vote privacy, revisited.
+Verifiable data streaming.
+Dynamic searchable symmetric encryption.
+PrivateFS: a parallel oblivious file system.

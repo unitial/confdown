@@ -1,0 +1,99 @@
+Proceedings of the 17th ACM Conference on Computer and Communications Security, CCS 2010, Chicago, Illinois, USA, October 4-8, 2010.
+Security analysis of India's electronic voting machines.
+Dissecting one click frauds.
+@spam: the underground on 140 characters or less.
+HyperSentry: enabling stealthy in-context measurement of hypervisor integrity.
+Trail of bytes: efficient support for forensic analysis.
+Survivable key compromise in software update systems.
+A methodology for empirical analysis of permission-based security models and its application to android.
+Mobile location tracking in metro areas: malnets and others.
+On pairing constrained wireless devices based on secrecy of auxiliary channels: the case of acoustic eavesdropping.
+PinDr0p: using single-ended audio features to determine call provenance.
+Building efficient fully collusion-resilient traitor tracing and revocation schemes.
+Algebraic pseudorandom functions with improved efficiency from the augmented cascade.
+Practical leakage-resilient pseudorandom generators.
+Practical leakage-resilient identity-based encryption from simple assumptions.
+Testing metrics for password creation policies by attacking large sets of revealed passwords.
+The security of modern password expiration: an algorithmic framework and empirical analysis.
+Attacks and design of image recognition CAPTCHAs.
+Robusta: taming the native beast of the JVM.
+Retaining sandbox containment despite bugs in privileged memory-safe code.
+A control point for reducing root abuse of file-system privileges.
+Modeling attacks on physical unclonable functions.
+Dismantling SecureMemory, CryptoMemory and CryptoRF.
+Attacking and fixing PKCS#11 security tokens.
+An empirical study of privacy-violating information flows in JavaScript web applications.
+DIFC programs by automatic instrumentation.
+Predictive black-box mitigation of timing channels.
+In search of an anonymous and secure lookup: attacks on structured peer-to-peer anonymous communication systems.
+Recruiting new tor relays with BRAIDS.
+An improved algorithm for tor circuit scheduling.
+Dissent: accountable anonymous group messaging.
+Abstraction by set-membership: verifying security protocols and web services with databases.
+Developing security protocols by refinement.
+Computational indistinguishability logic.
+Computationally sound verification of source code.
+AccessMiner: using system-centric models for malware protection.
+Input generation via decomposition and re-stitching: finding bugs in Malware.
+Inference and analysis of formal models of botnet command and control protocols.
+BLADE: an attack-agnostic approach for preventing drive-by malware infections.
+TASTY: tool for automating secure two-party computations.
+Worry-free encryption: functional encryption with public keys.
+Synchronized aggregate signatures: new definitions, constructions and applications.
+Secure text processing with applications to private DNA matching.
+On the (in)security of IPsec in MAC-then-encrypt configurations.
+On the soundness of authenticate-then-encrypt: formalizing the malleability of symmetric encryption.
+A new framework for efficient password-based authenticated key exchange.
+Accountability: definition and relationship to verifiability.
+Mimimorphism: a new approach to binary code obfuscation.
+Platform-independent programs.
+Return-oriented programming without returns.
+DieHarder: securing the heap.
+Symbolic security analysis of ruby-on-rails web applications.
+Sidebuster: automated detection and quantification of side-channel leaks in web application development.
+NoTamper: automatic blackbox detection of parameter tampering opportunities in web applications.
+Protecting browsers from cross-origin CSS attacks.
+A privacy recommendation wizard for users of social networking sites.
+SecTag: a multi-policy supported secure web tag framework.
+Demonstrating cognitive packet network resilience to worm attacks.
+In God we trust all others we monitor.
+Enhancing resilience of probabilistic key pre-distribution schemes for WSNs through hash chaining.
+TAPS: automatically preparing safe SQL queries.
+XACML policy performance evaluation using a flexible load testing framework.
+Protecting portable storage with host validation.
+Virtual browser: a web-level sandbox to secure third-party JavaScript without sacrificing functionality.
+CardSpace in the cloud.
+Secure latency estimation with treeple.
+TEE: a virtual DRTM based execution environment for secure cloud-end computing.
+Laptop theft: a case study on the effectiveness of security mechanisms in open organizations.
+Information security for sensors by overwhelming random sequences and permutations.
+On verifying stateful dataflow processing services in large-scale cloud systems.
+Assessing trust in uncertain information using Bayesian description logic.
+Timing attacks on PIN input devices.
+Detecting and characterizing social spam campaigns.
+Fingerprinting websites using remote traffic analysis.
+Efficient sensor node authentication via 3GPP mobile communication networks.
+Rendezvous tunnel for anonymous publishing.
+Exploiting social networking sites for spam.
+An implementation of event and filter confidentiality in pub/sub systems and its application to e-health.
+Privacy and robustness for data aggregation in wireless sensor networks.
+Designing router scheduling policies: a privacy perspective.
+CRAFT: a new secure congestion control architecture.
+Dialog-based payload aggregation for intrusion detection.
+Protecting location privacy against inference attacks.
+Designs to account for trust in social network-based sybil defenses.
+Secure encounter-based social networks: requirements, challenges, and designs.
+Secure online banking on untrusted computers.
+iFriendU: leveraging 3-cliques to enhance infiltration attacks in online social networks.
+Losing control of the internet: using the data plane to attack the control plane.
+Size-based scheduling: a recipe for DDOS?
+User-friendly matching protocol for online social networks.
+Hierarchical attribute-based encryption for fine-grained access control in cloud storage services.
+Secure dynamic code generation against spraying.
+Ad hoc broadcast encryption.
+Dynamic window based multihop authentication for WSN.
+Spectrum based fraud detection in social networks.
+A portable TPM based on USB key.
+On efficient ciphertext-policy attribute based encryption and broadcast encryption: extended abstract.
+Efficient provable data possession for hybrid clouds.
+A cloud based SIM DRM scheme for the mobile internet.

@@ -1,0 +1,58 @@
+Attacking cryptographic schemes based on "perturbation polynomials".
+Filter-resistant code injection on ARM.
+False data injection attacks against state estimation in electric power grids.
+EPC RFID tag security weaknesses and defenses: passport cards, enhanced drivers licenses, and beyond.
+An efficient forward private RFID protocol.
+RFID privacy: relation between two notions, minimal condition, and efficient construction.
+CoSP: a general framework for computational soundness proofs.
+Reactive noninterference.
+Computational soundness for key exchange protocols with symmetric encryption.
+A probabilistic approach to hybrid role mining.
+Efficient pseudorandom functions from the decisional linear assumption and weaker variants.
+Improving privacy and security in multi-authority attribute-based encryption.
+Oblivious transfer with access control.
+NISAN: network information service for anonymization networks.
+Certificateless onion routing.
+ShadowWalker: peer-to-peer anonymous communication using redundant structured topologies.
+Ripley: automatically securing web 2.0 applications through replicated execution.
+HAIL: a high-availability and integrity layer for cloud storage.
+Hey, you, get off of my cloud: exploring information leakage in third-party compute clouds.
+Dynamic provable data possession.
+On cellular botnets: measuring the impact of malicious devices on a cellular network core.
+On lightweight mobile phone application certification.
+SMILE: encounter-based trust for mobile social services.
+Battle of Botcraft: fighting bots in online games with human observational proofs.
+Fides: remote anomaly-based cheat detection using client emulation.
+Behavior based software theft detection.
+The fable of the bees: incentivizing robust revocation decision making in ad hoc networks.
+None
+On achieving good operating points on an ROC plane using stochastic anomaly score prediction.
+On non-cooperative location privacy: a game-theoretic analysis.
+Privacy-preserving genomic computation through program specialization.
+Feeling-based location privacy protection for location-based services.
+Multi-party off-the-record messaging.
+The bayesian traffic analysis of mix networks.
+As-awareness in Tor path selection.
+Membership-concealing overlay networks.
+On the difficulty of software-based attestation of embedded devices.
+Proximity-based access control for implantable medical devices.
+XCS: cross channel scripting and its impact on web applications.
+A security-preserving compiler for distributed programs: from information-flow policies to cryptographic mechanisms.
+Finding bugs in exceptional situations of JNI programs.
+Secure open source collaboration: an empirical study of linus' law.
+On voting machine design for verification and testability.
+Secure in-VM monitoring using hardware virtualization.
+A metadata calculus for secure information sharing.
+Multiple password interference in text passwords and click-based graphical passwords.
+Can they hear me now?: a security analysis of law enforcement wiretaps.
+English shellcode.
+Learning your identity and disease from research papers: information leaks in genome wide association study.
+Countering kernel rootkits with lightweight hook protection.
+Mapping kernel objects to enable systematic integrity checking.
+Robust signatures for kernel data structures.
+A new cell counter based attack against tor.
+Scalable onion routing with torsk.
+Anonymous credentials on a standard java card.
+Large-scale malware indexing using function-call graphs.
+Dispatcher: enabling active botnet infiltration using automatic protocol reverse-engineering.
+Your botnet is my botnet: analysis of a botnet takeover.
